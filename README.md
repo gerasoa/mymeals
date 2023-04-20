@@ -1,3 +1,12 @@
+
+# MyMeals Build A Full Recipe App Tutorial
+
+This repository is intended for learning React by building a simple and efficient recipe application. The idea is to create new features while applying best practices. This project is based on the tutorial by https://www.youtube.com/watch?v=xc4uOzlndAk.
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
